@@ -1,3 +1,5 @@
+package SortAlgo;
+
 public class BubbleSort {
     public static void main(String[] args) {
         int num[]={23,12,34,5,6,78};

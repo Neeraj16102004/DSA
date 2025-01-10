@@ -1,3 +1,5 @@
+package Search;
+
 public class BinarySearch{
     public static void main(String[] args) {
         int[] num ={23,33,44,12,1,34,56};
