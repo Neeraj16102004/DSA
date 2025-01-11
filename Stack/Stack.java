@@ -1,3 +1,7 @@
+package Stack;
+
+
+
 public class Stack{
          public int[] arr = new int[6];
          public int size;
